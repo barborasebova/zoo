@@ -1,4 +1,4 @@
-panda 
-slon
-lev
-zirafa
+panda 🐼
+slon 🐘
+lev 🦁
+zirafa 🦒
